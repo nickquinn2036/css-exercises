@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+p{
+  background-color: lightpink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#even_blue{
+  color: blue;
+  font-size: 36px;
+}
+
+p.odd_big{
+  background-color: lightpink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-size: 24px;
+}
+
+#even_green{
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
